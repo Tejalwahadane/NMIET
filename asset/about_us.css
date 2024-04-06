@@ -1,0 +1,26 @@
+body{
+    font-family: Roboto;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    color: white;
+    background-color:black;
+    
+   
+
+}
+h1{
+    background: -webkit-linear-gradient( rgb(194, 91, 108),lightblue,blue);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-weight: bold;
+    border-bottom: 1px solid white;
+    padding-bottom: 30px;
+    text-align: center;
+}
+.text{
+    width: 90%;
+    height: 100%;
+    font-size: 1.5rem;
+    margin-left: 70px;
+}
